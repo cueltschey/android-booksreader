@@ -1,0 +1,27 @@
+user interface:
+- not a list (spaced out)
+- page fits screen
+- turquoise/ purple color scheme
+- cusomizable font size
+- dark and light mode
+- put in page number at the top
+- undo button / takes back to last page
+
+database:
+- stored quotes
+- book progress
+- downloaded books
+- what files can it accept? --!
+.epub
+.txt
+.pdf
+- bookmarks
+
+crazy ideas:
+- automated genres
+- fast interface
+- trees to store data
+- tries to look up words or phrases
+
+constraints:
+- less than 10,000 reads and 5,000 writes pre day
