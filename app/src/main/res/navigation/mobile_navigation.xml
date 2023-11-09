@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.android_booksreader.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:name="com.example.android_booksreader.ui.gallery.QuotesFragment"
+        android:label="@string/menu_quotes"
         tools:layout="@layout/fragment_quotes" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.example.android_booksreader.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:name="com.example.android_booksreader.ui.slideshow.UploadFragment"
+        android:label="@string/menu_upload"
         tools:layout="@layout/fragment_upload" />
 </navigation>
