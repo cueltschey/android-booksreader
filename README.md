@@ -8,7 +8,7 @@ easy reading with a dark and light mode and customizable font size.
 ### Features 💎
 - authentification with firebase only through pre-made accounts (no user registration)
 - dark/light mode selection and view customization
-- file uploads that store .pdf .epub and .txt files in the cloud
+- file uploads that store .pdf files in the cloud
 - customizable user quotes that can be captured from books while reading
 
 coming to the google play store soon...
