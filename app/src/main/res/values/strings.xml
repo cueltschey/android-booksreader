@@ -16,4 +16,5 @@
     <string name="Email">Email</string>
     <string name="menu_quotes">Quotes</string>
     <string name="menu_upload">Upload Files</string>
+    <string name="upload_a_pdf">Upload a pdf</string>
 </resources>
