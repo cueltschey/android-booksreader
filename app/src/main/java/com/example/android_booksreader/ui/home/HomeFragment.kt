@@ -8,10 +8,15 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.android_booksreader.databinding.FragmentHomeBinding
+import com.github.barteksc.pdfviewer.PDFView
+import com.google.firebase.storage.StorageReference
 
 class HomeFragment : Fragment() {
 
     private var _binding: FragmentHomeBinding? = null
+
+    private lateinit var pdfView: PDFView
+    private lateinit var storageRef: StorageReference
 
     // This property is only valid between onCreateView and
     // onDestroyView.
